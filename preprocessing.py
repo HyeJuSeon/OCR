@@ -41,7 +41,6 @@ def imwrite(filename, img, params=None):
         print(e)
         return False
 
-
 def preprocessing(phase):
     labels = open(f'{base_dir}/data/gt_{phase}.txt', 'w')
     file_ext = r'.json'
@@ -136,6 +135,7 @@ def canny_edge_detection(phase, threshold=(50, 200)):
     # copy label
     shutil.copyfile(f'{base_dir}/data/gt_{phase}.txt', f'{base_dir}/canny_data/gt_{phase}.txt')
 
+
 if __name__ == '__main__':
     preprocessing('train')
     preprocessing('val')
@@ -145,7 +145,3 @@ if __name__ == '__main__':
     canny_edge_detection('train')
     canny_edge_detection('val')
     canny_edge_detection('test')
-
-
-
-
