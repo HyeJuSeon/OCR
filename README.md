@@ -2,7 +2,15 @@
 
 [실전기계학습 팀프로젝트]
 
-## Training result
+<br>
+
+If your custom data is Korean,
+
+```
+git clone https://github.com/HyeJuSeon/deep-text-recognition-benchmark
+```
+
+## Training
 - RGB
 <img src="/img/origin_data_result.png">
 
