@@ -25,13 +25,6 @@ git clone https://github.com/HyeJuSeon/deep-text-recognition-benchmark
 
 <br>
 
-### link
-[models](https://drive.google.com/drive/folders/1k4PlPYZxsDcPkDgD5aKbZq3qD30mmB8-?usp=sharing)
-
-[발표자료](https://drive.google.com/file/d/1UOL4adUSCpo6L0f_WGP-9wk5945wewZN/view?usp=sharing)
-
-<br>
-
 ## Evaluation
 |  |Accuracy|
 |----|----|
@@ -39,3 +32,10 @@ git clone https://github.com/HyeJuSeon/deep-text-recognition-benchmark
 |Canny edge|74.24%|
 |Sharpening filter|80.51%|
 |Unsharp masking|80.51%|
+
+<br>
+
+## Link
+[models](https://drive.google.com/drive/folders/1k4PlPYZxsDcPkDgD5aKbZq3qD30mmB8-?usp=sharing)
+
+[발표자료](https://drive.google.com/file/d/1UOL4adUSCpo6L0f_WGP-9wk5945wewZN/view?usp=sharing)
