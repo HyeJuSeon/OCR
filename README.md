@@ -2,6 +2,23 @@
 
 [실전기계학습 팀프로젝트]
 
+## Overview
+
+원본 데이터에 Canny edge detection, Sharpening filter, Unsharp masking을 적용하여 성능을 비교하고자 했다.
+
+## Dataset
+
+- AI Hub 야외 실제 촬영 한글 이미지
+  - 가로형 간판
+
+
+## Model
+
+
+[What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis](https://arxiv.org/abs/1904.01906)
+
+`TPS-ResNet-BiLSTM-CTC`
+
 <br>
 
 If your custom data is Korean,
